@@ -1,3 +1,7 @@
+![Frontie](https://github.com/user-attachments/assets/487820e9-1441-4b8a-98e1-a10abccf25b9)
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Archaniels/Frontie/total?style=for-the-badge) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Archaniels/Frontie?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/Archaniels/Frontie?style=for-the-badge) ![GitHub Release Date](https://img.shields.io/github/release-date/Archaniels/Frontie?style=for-the-badge)
+
 ## 1. Core Philosophy (Rules of the Game)
 
 Print these mentally and don’t break them:
