@@ -2,7 +2,7 @@
 
 Print these mentally and don’t break them:
 
-1. **One project = one day, max 3–5 hours**
+1. **One project = one day, max 3–5 hours, in a new branch**
 2. **No backend. No auth. No DB. No APIs.**
 3. **Local-only. No deployment.**
 4. **Static data only (hardcoded JSON or JS objects)**
